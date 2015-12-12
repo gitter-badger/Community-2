@@ -1,2 +1,4 @@
-# community
-E-resindency issues and ideas (unofficial)
+# E-resindency community
+Unofficial alternative to https://community.eresnetwork.eu/
+
+Issues: https://github.com/e-residency/community/issues
